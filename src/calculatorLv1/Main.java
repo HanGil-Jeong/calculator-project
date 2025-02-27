@@ -57,11 +57,6 @@ public class Main {
             if (answer.equals("exit")) {
                 break;
             }
-
         }
-
-
-
-
     }
 }
